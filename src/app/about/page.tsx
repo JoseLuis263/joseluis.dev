@@ -27,7 +27,7 @@ export default function About() {
         {...fadeInUp}
       >
         <p className="text-lg text-secondary max-w-3xl mx-auto text-center">
-          Hello! I'm Jose Luis, and I have over a year of experience as a software developer.
+          Hello! I&apos;m Jose Luis, and I have over a year of experience as a software developer.
         </p>
       </motion.section>
 
